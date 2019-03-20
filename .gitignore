@@ -43,3 +43,11 @@ RecastDemo/Contrib/SDL/*
 
 ## Generated doc files
 Docs/html
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
